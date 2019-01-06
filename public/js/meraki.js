@@ -96,4 +96,4 @@ function zapier(data){
       });
 }
 
-$("form[ajax=true]").submit(function(e) {
+//$("form[ajax=true]").submit(function(e) {
