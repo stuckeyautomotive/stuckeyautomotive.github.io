@@ -95,6 +95,8 @@ function zapier(data){
         console.log("zap success");
       });
 
-$("form[ajax=true]").submit(function(e) {
-
 }
+
+//$("form[ajax=true]").submit(function(e) {
+
+
